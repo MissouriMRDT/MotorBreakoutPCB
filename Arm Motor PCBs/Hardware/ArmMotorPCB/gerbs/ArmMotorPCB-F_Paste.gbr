@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.10)-1*%
+%TF.CreationDate,2022-03-13T21:43:14-05:00*%
+%TF.ProjectId,ArmMotorPCB,41726d4d-6f74-46f7-9250-43422e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.10)-1) date 2022-03-13 21:43:14*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,3.000000X5.100000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,TP2*%
+X129519400Y-63623000D03*
+%TD*%
+%TO.C,TP1*%
+X145816600Y-63377000D03*
+%TD*%
+M02*
